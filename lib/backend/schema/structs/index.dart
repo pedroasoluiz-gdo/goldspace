@@ -1,0 +1,21 @@
+export '/backend/schema/util/schema_util.dart';
+
+export 'ape_struct.dart';
+export 'ape90_struct.dart';
+export 'canais_xprocessos_struct.dart';
+export 'cargo_struct.dart';
+export 'celular_struct.dart';
+export 'cidade_struct.dart';
+export 'colaborador_struct.dart';
+export 'conversas_struct.dart';
+export 'email_struct.dart';
+export 'email_principal_struct.dart';
+export 'empresa_struct.dart';
+export 'endereco_struct.dart';
+export 'gestor_struct.dart';
+export 'mensagens_struct.dart';
+export 'pictures_struct.dart';
+export 'processos_struct.dart';
+export 'setor_struct.dart';
+export 'telefones_struct.dart';
+export 'usuario_struct.dart';
